@@ -1,5 +1,7 @@
 "# MSBD5003" 
 
+Install Spark On Windwos: https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c
+
 Proposal:
 https://docs.google.com/document/d/10Te3g3Lo6TdiyMkae2gh34FhCs2HGLmbpWQfiZuTWnI/edit
 
