@@ -2,7 +2,7 @@
 
 Install Spark On Windwos: https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c
 
-extracted feature data: This data has some problem. Please dont use it.
+extracted feature data: https://drive.google.com/file/d/1USmTWs9a36ErXeklvmNo62kXcQhtiNHz/view?usp=sharing
 
 feature 15\16\17\19:
 https://drive.google.com/open?id=1uOw40Rm8xCNLtPV8e8wLqtex3R3BKRIn
