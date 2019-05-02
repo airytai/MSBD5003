@@ -19,3 +19,5 @@ https://www.researchgate.net/publication/309778358_A_mobile_recommendation_syste
 https://github.com/qiangsiwei/competition_tianchi
 
 pyspark 数据集相似  做协同过滤  https://towardsdatascience.com/building-spotifys-discover-weekly-with-spark-4370d5d0df2f
+
+movie recommender https://github.com/KevinLiao159/MyDataSciencePortfolio/blob/master/movie_recommender/movie_recommendation_using_ALS.ipynb
